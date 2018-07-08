@@ -4,3 +4,6 @@
 # KiCad generated files
 *.bak
 
+# LibreOffice generated files
+.~lock.*#
+

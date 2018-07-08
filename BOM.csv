@@ -1,0 +1,17 @@
+Quantity,Manufacturer,Model,Package,Function,Datasheet
+1,Texas Instruments,SN74LS245N,DIP-20,Octal bus transceivers,http://www.ti.com/lit/ds/symlink/sn74ls245.pdf
+1,Texas Instruments,SN7407N,DIP-14,Hex buffers/drivers,http://www.ti.com/lit/ds/symlink/sn7407.pdf
+1,Philips,74HCT688N,DIP-20,8-bit magnitude comparator,https://assets.nexperia.com/documents/data-sheet/74HC_HCT688_CNV.pdf
+1,Texas Instruments,74LS00N,DIP-14,Quadruple 2-input NAND gates,http://www.ti.com/lit/ds/symlink/sn74ls00.pdf
+1,Philips,74HCT139N,DIP-16,Dual 2-to-4 line decoder,https://assets.nexperia.com/documents/data-sheet/74HC_HCT139.pdf
+1,Philips,74HCT173N,DIP-16,Quad D-type flip-flop,https://assets.nexperia.com/documents/data-sheet/74HC_HCT173.pdf
+1,Philips,HEF4051BP,DIP-16,8-channel analog multiplexer/demultiplexer,https://assets.nexperia.com/documents/data-sheet/HEF4051B.pdf
+1,ST,L7908CV,TO-220,Negative voltage regulator,https://www.st.com/resource/en/datasheet/l79.pdf
+1,ST,LM339N,DIP-14,Quad voltage comparator,http://www.ti.com/lit/gpn/lm339-n
+1,Philips,MC1408-8N,DIP-16,8-bit multiplying D/A converter,http://www.datasheetcatalog.com/datasheets_pdf/M/C/1/4/MC1408-8.shtml
+1,Texas Instruments,TL072ACP,DIP-8,Operational amplifier,http://www.farnell.com/datasheets/1862384.pdf
+1,ST,HCF4051BE,DIP-16,8-channel analog multiplexer/demultiplexer,https://assets.nexperia.com/documents/data-sheet/HEF4051B.pdf
+2,Philips,74HCT374N,DIP-20,Octal D-type flip-flop,https://assets.nexperia.com/documents/data_sheet/74HC_HCT374_CNV.pdf
+2,Texas Instruments,TL084CN,DIP-14,Operational amplifier,http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=tl084&fileType=pdf
+1,NEC,D8255AC-2,DIP-40?,Intel 8255 programmable peripheral interface,https://en.wikipedia.org/wiki/Intel_8255
+1,ST,L7805CV,TO-220,Positive voltage regulator,https://www.st.com/resource/en/datasheet/l78.pdf
