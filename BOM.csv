@@ -14,4 +14,4 @@ Quantity,Manufacturer,Model,Package,Function,Datasheet
 2,Philips,74HCT374N,DIP-20,Octal D-type flip-flop,https://assets.nexperia.com/documents/data_sheet/74HC_HCT374_CNV.pdf
 2,Texas Instruments,TL084CN,DIP-14,Operational amplifier,http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=tl084&fileType=pdf
 1,NEC,D8255AC-2,DIP-40?,Intel 8255 programmable peripheral interface,https://en.wikipedia.org/wiki/Intel_8255
-1,ST,L7805CV,TO-220,Positive voltage regulator,https://www.st.com/resource/en/datasheet/l78.pdf
+1,ST,L7805CV,TO-220,Positive voltage regulator,
