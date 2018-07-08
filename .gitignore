@@ -1,0 +1,6 @@
+
+*.jpg
+
+# KiCad generated files
+*.bak
+
